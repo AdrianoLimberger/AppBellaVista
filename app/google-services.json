@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "852434635487",
+    "firebase_url": "https://appbellavista-cd23f.firebaseio.com",
+    "project_id": "appbellavista-cd23f",
+    "storage_bucket": "appbellavista-cd23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852434635487:android:048924b870fd39d2",
+        "android_client_info": {
+          "package_name": "com.example.bella.bellavista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852434635487-nc4fd0tifdu7cgvhqc3fcut9uoeqkvoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2ePigKMs6hqjkbn22xJh8x-DTOJEcmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
