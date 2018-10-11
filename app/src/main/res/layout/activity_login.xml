@@ -31,7 +31,6 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="44dp"
-        android:accessibilityHeading="false"
         android:ems="10"
         android:hint="Digite sua senha"
         android:inputType="textPassword"
@@ -57,7 +56,7 @@
 
 
     <TextView
-        android:id="@+id/tvCadastrar"
+        android:id="@+id/txtCadastrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="152dp"

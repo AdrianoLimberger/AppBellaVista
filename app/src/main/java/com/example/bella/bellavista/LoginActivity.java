@@ -35,7 +35,7 @@ public class LoginActivity extends AppCompatActivity {
         etEmail = (EditText) findViewById(R.id.etEmail);
         etSenha = (EditText) findViewById(R.id.etSenha);
         btnEntrar = (Button) findViewById(R.id.btnEntrar);
-        txtCadastrar = (TextView) findViewById(R.id.tvCadastrar);
+        txtCadastrar = (TextView) findViewById(R.id.txtCadastrar);
 
         autenticacao = FirebaseAuth.getInstance();
         firebaseDatabase = FirebaseDatabase.getInstance();
